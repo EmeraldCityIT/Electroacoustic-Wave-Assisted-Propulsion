@@ -1,6 +1,6 @@
 NASA reports the following occurances during testing within 90 meters above the space station.
 
-Satallite takes of and cannot be controlled.
+Satallite takes off and cannot be controlled.
 
 Lost 5 small units from January 07, 2017 to November 14, 2019.
 
