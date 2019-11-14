@@ -1,4 +1,4 @@
-NASA reports the following occurances during testing within 90 above the space station.
+NASA reports the following occurances during testing within 90 meters above the space station.
 
 Satallite takes of and cannot be controlled.
 
