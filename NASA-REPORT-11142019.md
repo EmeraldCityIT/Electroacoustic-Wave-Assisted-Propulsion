@@ -12,6 +12,8 @@ Fuel consumption is not saved during flight.
 
 Satellite acceleration is uncontrollable.
 
+"They go encredibly fast"
+
 Sound control and remote control strategies are reccomonded by Cory Andrew Hofstad.
 
 
